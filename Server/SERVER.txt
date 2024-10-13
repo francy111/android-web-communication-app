@@ -1,0 +1,2 @@
+Questo file è stato creato perchè LibreOffice permette di mettere un link ad un documento e non un link ad una cartella, 
+quindi questo file è come un segnaposto per la cartella.
